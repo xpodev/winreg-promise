@@ -1,7 +1,7 @@
 {
   "name": "winreg-promise",
   "description": "A promise-based wrapper around the winreg package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "repository": "https://github.com/xpodev/winreg-promise",
   "author": "Xpo Development",
