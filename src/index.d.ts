@@ -133,4 +133,5 @@ interface RegistryStatic extends WinregStatic {
   new (options: Winreg.Options): RegistryPromise;
 }
 
-export const Registry: RegistryStatic;
+declare const Registry: RegistryStatic;
+export = Registry;
