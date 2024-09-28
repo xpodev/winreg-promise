@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": "https://github.com/xpodev/winreg-promise",
   "author": "Xpo Development",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "winreg": "^1.2.5"
   },

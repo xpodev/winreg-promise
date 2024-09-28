@@ -1,3 +1,12 @@
+/*
+ * This file is licensed under the BSD 2-Clause License.
+ *
+ * BSD 2-Clause License:
+ * Copyright (c) 2016, Paul Bottin All rights reserved.
+ *
+ * See the LICENSE file in the project root for full license information.
+ */
+
 /************************************************************************************************************
  * registry.js - contains a wrapper for the REG command under Windows, which provides access to the registry
  *

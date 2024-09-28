@@ -42,5 +42,7 @@ async function set() {
 
 ## License
 - This repository contains code under both the MIT License and the BSD 2-Clause License.
-- The original code by Paul Bottin is licensed under the BSD 2-Clause License. See [LICENSE-BSD](LICENSE-BSD) for more details.
-- All other code is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+- The original code by Paul Bottin is licensed under the BSD 2-Clause License.
+- All other code is licensed under the MIT License.
+
+See [LICENSE](LICENSE) for details.
