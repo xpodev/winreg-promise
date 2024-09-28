@@ -1,4 +1,4 @@
-import { default as _Registry } from "winreg";
+import { default as _Registry } from "./winreg";
 
 function promisify<T>(fn: (...args: any[]) => void) {
   return function (this: any, ...args: unknown[]) {
